@@ -6,24 +6,11 @@ Science Advances | https://www.science.org/content/page/email-alerts-and-rss-fee
 PNAS | http://www.pnas.org/rss/Neuroscience.xml
 PNAS | http://www.pnas.org/rss/Psychological_and_Cognitive_Sciences.xml
 
-# neuroscience journals
-bioRxiv | http://connect.biorxiv.org/biorxiv_xml.php?subject=neuroscience
-Nature Neuroscience | https://www.nature.com/neuro.rss
-Nature Human Behav | https://www.nature.com/nathumbehav.rss
-Nature Aging | https://www.nature.com/nataging.rss
-Neuron | https://www.cell.com/neuron/rss
-J Neurosci | https://www.jneurosci.org/rss/current.xml
-Neuron | http://www.cell.com/neuron/inpress.rss
-Cerebral Cortex | http://cercor.oxfordjournals.org/rss/current.xml
-J Cogn Neurosci | https://ieeexplore.ieee.org/rss/TOC6720218.XML
-NeuroImage | http://www.journals.elsevier.com/neuroimage/rss
+# Broad physics / materials 
+APS | https://journals.aps.org/feeds
 
-# biology journals
-Cell | https://www.cell.com/cell/current.rss
-eLife | https://elifesciences.org/rss/subject/neuroscience.xml
-PLOS Biol | https://journals.plos.org/plosbiology/feed/atom
-PLOS Comp Bio | https://journals.plos.org/ploscompbiol/rss
-Nature Biotechnology | https://www.nature.com/nbt.rss
+# Thermoelectrics / microelectronics
+Journal of microelect |  https://imapsjmep.org/feed
 
 # AI/ML journals
 Nature Comput Sci | https://www.nature.com/natcomputsci.rss
