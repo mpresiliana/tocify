@@ -28,7 +28,7 @@ electricity generation
 onboard electronics
 
 ## narrative
-My research focuses on large-scale neural and physiological dynamics using computational and data-science approaches across species and recording modalities. I work extensively with heterogeneous datasets (EEG, LFP, iEEG, behavioral and physiological signals), emphasizing open science, reproducible methods, and scalable analysis tools for neural time series.
+My research focuses on integrating thermoelectric devices or materials onto hypersonic or space technologies. I work extensively with ashby charts, COMSOL, and phase diagrams to extensively study important materials characteristics and if they are viable options to be functionally graded for application of a thermal protection systema and electrical power generation from available heat sources and cold sources. 
 
 A central theme of my work is developing and applying methods to better characterize neural oscillations and aperiodic (1/f-like) activity. My lab pioneered approaches to analyzing oscillatory waveform shape and spectral parameterization, demonstrating that nonsinusoidal features and aperiodic structure provide insight into synaptic physiology, excitation–inhibition balance, cognitive function, and development. We develop and release open-source Python tools for neural signal processing and apply them to large longitudinal and cross-species datasets to link brain dynamics with cognition, behavior, and disease.
 
